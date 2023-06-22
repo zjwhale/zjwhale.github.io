@@ -3240,6 +3240,7 @@ input, select, textarea {
 			background-repeat: 								no-repeat,													no-repeat;
 			background-attachment:								scroll,														scroll;
 			z-index: -1;
+			opacity: 0.5;
 		}
 
 			#wrapper > .bg.fixed {
